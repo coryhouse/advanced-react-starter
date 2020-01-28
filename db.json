@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Cory GOTTA GO!",
+      "email": "c@h.com",
+      "role": "Admin"
+    },
+    {
+      "id": 2,
+      "name": "Wahid",
+      "email": "wahid@ag.com",
+      "role": "User"
+    },
+    {
+      "id": 3,
+      "name": "Frey",
+      "email": "frey@ag.com",
+      "role": "Admin"
+    },
+    {
+      "name": "something",
+      "email": "new",
+      "role": "role",
+      "id": 4
+    },
+    {
+      "name": "asdgsadg",
+      "email": "sadgsda",
+      "role": "asdgsdag",
+      "id": 5
+    },
+    {
+      "name": "",
+      "email": "",
+      "role": "",
+      "id": 6
+    },
+    {
+      "name": "sadgds",
+      "email": "sadgdasg",
+      "role": "sadgdsg",
+      "id": 7
+    }
+  ]
+}
